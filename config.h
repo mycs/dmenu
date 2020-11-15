@@ -4,6 +4,8 @@
 static int topbar = 1;                      /* -b  option; if 0, dmenu appears at bottom     */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
+  "SourceCodePro-ExtraLight:pixelsize=12:antialias=true:autohint=true",
+  "Sauce Code Pro ExtraLiight Nerd Font Complete:pixelsize=12:antialias=true:autohint=true",
 	"monospace:size=10",
 	"JoyPixels:pixelsize=8:antialias=true:autohint=true"
 };
